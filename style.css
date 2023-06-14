@@ -1,0 +1,39 @@
+.contenedor {
+    width: 350px;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-color: white;
+    border-radius: 10px;
+    align-items: center;
+    margin: auto; 
+    margin-top: 80px;
+}
+
+.estilo1 {
+    font-family: 'Outfit', sans-serif;
+    font-size: x-large;
+    text-align: center;
+}
+
+.estilo2 {
+    font-size: 14px; 
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+    color: hsl(220, 15%, 55%);
+}
+
+body {
+    background-color: lightgrey; 
+}
+
+.tarjeta {
+    width: 300px;
+    margin: 20px;
+    border-radius: 10px; 
+}
+
+.attribution {
+    margin: 100px;
+}
